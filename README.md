@@ -11,7 +11,8 @@
 [https://coder-himanshi.github.io/CODESOFT-Task-3-Calculator/](https://himanshi00123.github.io/Codsofttask3./)
 ## Screenshots
 
-![Calculator ss](https://github.com/coder-himanshi/CODESOFT-Task-3-Calculator/assets/91421022/a5eeb564-e5c0-4bb5-863a-f9b078482727)
+![Calculator ss]![image](https://github.com/Himanshi00123/Codsofttask3./assets/147072566/351d1fa9-af30-4802-9a92-0c5a2a2f9cbc)
+
 
 
 
